@@ -22,6 +22,7 @@ public class myAppTester {
 		b=20;
 		c = a+b;
 		System.out.println("sum of a and b is "+c);
+		System.out.println("square of c "+ c*c);
 		
 
 	}
