@@ -23,6 +23,7 @@ public class myAppTester {
 		c = a+b;
 		System.out.println("sum of a and b is "+c);
 		System.out.println("square of c "+ c*c);
+		System.out.println("now in branch b1");
 		
 
 	}
